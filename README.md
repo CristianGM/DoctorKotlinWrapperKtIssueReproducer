@@ -14,6 +14,7 @@ When a subproject use kapt and the doctor plugin is applied through settings.gra
 >  at com.osacky.doctor.DoctorPlugin$apply$2$3.invoke(DoctorPlugin.kt:93)
 
 You can see the scan: https://scans.gradle.com/s/i6w5wqolnkiu2
+And the line from the doctor that produces the error: https://github.com/runningcode/gradle-doctor/blob/master/doctor-plugin/src/main/java/com/osacky/doctor/DoctorPlugin.kt#L93
 
 
 ## Another tries and a weirder issue
